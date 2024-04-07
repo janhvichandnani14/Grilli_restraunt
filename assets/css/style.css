@@ -2,10 +2,7 @@
 
 :root {
 
-    /**
-     * COLORS
-     */
-  
+    
     --gold-crayola: hsl(38, 61%, 73%);
     --quick-silver: hsla(0, 0%, 65%, 1);
     --davys-grey: hsla(30, 3%, 34%, 1);
@@ -23,9 +20,6 @@
     --black-alpha-80: hsla(0, 0%, 0%, 0.8);
     --black-alpha-15: hsla(0, 0%, 0%, 0.15);
   
-    /**
-     * GRADIENT COLOR
-     */
   
     --loading-text-gradient: linear-gradient(90deg, transparent 0% 16.66%, var(--smoky-black-3) 33.33% 50%,  transparent 66.66% 75%);
     --gradient-1: linear-gradient(to top,hsla(0, 0%, 0%, 0.9),hsla(0, 0%, 0%, 0.7),transparent);
